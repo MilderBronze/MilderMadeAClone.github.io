@@ -20,7 +20,7 @@ nav{
 }
 nav img{
     /* this is to fix the size of the logo */
-    width: 150px;
+    width: 100%;
 }
 .nav-links{
     flex: 1;
